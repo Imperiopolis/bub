@@ -1,5 +1,5 @@
 # TODO: make configurable
-HEROKU_APPS = %w(fluffy sassy staging)
+HEROKU_APPS = %w()
 APTIBLE_APPS = %w(gyro burrito hotdog cannoli)
 APPS = HEROKU_APPS + APTIBLE_APPS
 APP_VENDOR = "joyable"
